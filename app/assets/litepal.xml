@@ -1,0 +1,12 @@
+<litepal>
+    <dbname value="sisi_weather"/>
+
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.sisiweather.android.db.Provice"/>
+        <mapping class="com.sisiweather.android.db.City"/>
+        <mapping class="com.sisiweather.android.db.County"/>
+    </list>
+
+</litepal>

@@ -12,7 +12,7 @@
         android:name="org.litepal.LitePalApplication">
         <meta-data
             android:name="com.google.android.actions"
-            android:resource="@xml/litepal" />
+            />
 
         <activity android:name=".MainActivity">
             <intent-filter>
